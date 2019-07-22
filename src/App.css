@@ -1,0 +1,13 @@
+.frame {
+  text-align: center;
+  margin-top: 25%;
+}
+
+.button {
+  background-color: blue;
+  border-radius: 10px;
+  color: white;
+  width: 200px;
+  height: 70px;
+  font-size: 30px;
+}
